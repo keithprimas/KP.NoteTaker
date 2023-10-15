@@ -19,10 +19,10 @@ WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 
 ## Link to Deployed Application
-
+https://keith-notetaker-app-9aeafc40edc2.herokuapp.com/
 
 ## Screenshot
-
+![Alt text](Screenshot.png)
 
 ## Source Code 
 https://github.com/coding-boot-camp/miniature-eureka.git
